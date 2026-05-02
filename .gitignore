@@ -71,6 +71,7 @@ __pycache__/
 *.pyc
 *.pyd
 .vscode/
+imgs/
 
 ### Linux ###
 *~
